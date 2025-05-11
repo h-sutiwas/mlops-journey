@@ -1,5 +1,5 @@
 # mlops-journey
-My learning journey through MLOps Zoomcamp from DataTalksClub, I welcome everyone to check this repo. This repository focuses on the implementation of MLOps for machine learning workflows. It will covers these different keys below:
+My learning journey through the MLOps Zoomcamp from DataTalksClub, I welcome everyone to check this repo. This repository focuses on the implementation of MLOps for machine learning workflows. It will covers these different keys below:
 
 1. Creating a reproducible development environment.
 2. Automate the data preprocessing and data training pipelines.
