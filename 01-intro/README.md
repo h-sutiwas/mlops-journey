@@ -36,5 +36,5 @@ Technical Execution
   - `scikit-learn` for predictive modeling
   - Jupyter Notebook for code development
 
-This project is part of the MLOps Zoomcamp 2025 coursework, focusing on practical machine learning implementation and operations. For the first assignment, I have 2 different versions, one for submission while the other is for automation implementation.
+This project is part of the MLOps Zoomcamp 2025 coursework, focusing on practical machine learning implementation and operations. For the first assignment, I have 2 different versions, one for submission (Homework.ipynb) while the other (AutomatedVer.ipynb) is for automation implementation.
 [Link to the repository.](https://github.com/h-sutiwas/mlops-journey)
